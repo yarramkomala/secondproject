@@ -1,0 +1,10 @@
+com\niit\daoimpl\UserInfoDaoImpl.class
+com\niit\daoimpl\BlogDaoImpl.class
+com\niit\model\BaseDomain.class
+com\niit\dao\UserInfoDao.class
+com\niit\model\UserInfo.class
+com\niit\dao\BlogDao.class
+com\niit\model\Event.class
+com\niit\model\Blog.class
+com\niit\model\Chat.class
+com\niit\controller\controller.class
